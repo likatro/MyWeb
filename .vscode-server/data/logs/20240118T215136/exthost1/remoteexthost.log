@@ -1,0 +1,22 @@
+2024-01-18 21:51:41.077 [info] Extension host with pid 2463 started
+2024-01-18 21:51:41.111 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/004e33f01e5b915cdd99a687c3386a27/vscode.lock': Lock acquired.
+2024-01-18 21:51:41.349 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-18 21:51:41.353 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-01-18 21:51:42.367 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-18 21:51:42.479 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-18 21:51:42.479 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-18 21:51:43.404 [info] Eager extensions activated
+2024-01-18 21:51:43.405 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 21:51:43.407 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 21:51:43.409 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 21:51:47.385 [error] Error: spawn /mnt/c/Program Files/Google/Chrome/Application/chrome.exe ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at processTicksAndRejections (node:internal/process/task_queues:82:21)
+	at runNextTicks (node:internal/process/task_queues:64:3)
+	at listOnTimeout (node:internal/timers:538:9)
+	at process.processTimers (node:internal/timers:512:7)
+2024-01-18 21:52:14.416 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-18 21:52:14.417 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-18 21:52:52.758 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-01-18 21:52:53.184 [warning] vscode.json-language-features - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.

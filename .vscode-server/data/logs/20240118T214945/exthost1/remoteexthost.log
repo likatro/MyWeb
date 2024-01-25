@@ -1,0 +1,27 @@
+2024-01-18 21:49:50.461 [info] Extension host with pid 2232 started
+2024-01-18 21:49:50.461 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/004e33f01e5b915cdd99a687c3386a27/vscode.lock'
+2024-01-18 21:49:50.482 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/004e33f01e5b915cdd99a687c3386a27/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-01-18 21:49:50.496 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/004e33f01e5b915cdd99a687c3386a27/vscode.lock': The pid 1752 appears to be gone.
+2024-01-18 21:49:50.496 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/004e33f01e5b915cdd99a687c3386a27/vscode.lock': Deleting a stale lock.
+2024-01-18 21:49:50.541 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/004e33f01e5b915cdd99a687c3386a27/vscode.lock': Lock acquired.
+2024-01-18 21:49:50.697 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-18 21:49:50.703 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-01-18 21:49:51.744 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-18 21:49:51.928 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-18 21:49:51.930 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-18 21:49:53.646 [info] Eager extensions activated
+2024-01-18 21:49:53.659 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 21:49:53.661 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 21:49:53.661 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-01-18 21:50:01.894 [error] Error: spawn /mnt/c/Program Files/Google/Chrome/Application/chrome.exe ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at processTicksAndRejections (node:internal/process/task_queues:82:21)
+	at runNextTicks (node:internal/process/task_queues:64:3)
+	at listOnTimeout (node:internal/timers:538:9)
+	at process.processTimers (node:internal/timers:512:7)
+2024-01-18 21:50:50.494 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-18 21:50:50.496 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-18 21:51:19.817 [info] Extension host terminating: received terminate message from renderer
+2024-01-18 21:51:19.818 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/004e33f01e5b915cdd99a687c3386a27/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-01-18 21:51:20.972 [info] Extension host with pid 2232 exiting with code 0

@@ -1,0 +1,57 @@
+2024-01-18 21:28:06.550 [info] Nivel de registro: Info
+2024-01-18 21:28:06.550 [info] La validación encontró GIT en: “git“
+2024-01-18 21:28:06.550 [info] Usando GIT “2.34.1” desde “git”
+2024-01-18 21:28:06.550 [info] > git rev-parse --show-toplevel [16ms]
+2024-01-18 21:28:06.550 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.550 [info] > git rev-parse --show-toplevel [98ms]
+2024-01-18 21:28:06.550 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.556 [info] > git rev-parse --show-toplevel [201ms]
+2024-01-18 21:28:06.556 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.582 [info] > git rev-parse --show-toplevel [11ms]
+2024-01-18 21:28:06.582 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-18 21:28:06.607 [info] > git rev-parse --show-toplevel [11ms]
+2024-01-18 21:28:06.608 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.632 [info] > git rev-parse --show-toplevel [5ms]
+2024-01-18 21:28:06.632 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.651 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-18 21:28:06.651 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.670 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-18 21:28:06.670 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.699 [info] > git rev-parse --show-toplevel [9ms]
+2024-01-18 21:28:06.699 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.713 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-18 21:28:06.713 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.734 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-18 21:28:06.734 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-18 21:28:06.749 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-18 21:28:06.749 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.766 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-18 21:28:06.766 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-18 21:28:06.778 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-18 21:28:06.782 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.799 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-18 21:28:06.800 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.814 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-18 21:28:06.815 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-18 21:28:06.829 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-18 21:28:06.829 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.842 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-18 21:28:06.843 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:28:06.856 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-18 21:28:06.856 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:32:41.683 [info] > git rev-parse --show-toplevel [28ms]
+2024-01-18 21:32:41.684 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:32:42.256 [info] > git rev-parse --show-toplevel [158ms]
+2024-01-18 21:32:42.256 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:35:24.829 [info] > git rev-parse --show-toplevel [51ms]
+2024-01-18 21:35:24.829 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:36:32.008 [info] > git rev-parse --show-toplevel [36ms]
+2024-01-18 21:36:32.011 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:36:46.214 [info] > git rev-parse --show-toplevel [7ms]
+2024-01-18 21:36:46.214 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-18 21:37:17.959 [info] > git rev-parse --show-toplevel [10ms]
+2024-01-18 21:37:17.959 [info] fatal: not a git repository (or any of the parent directories): .git

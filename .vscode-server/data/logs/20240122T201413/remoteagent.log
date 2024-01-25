@@ -1,0 +1,43 @@
+2024-01-22 20:14:13.962 [info] 
+
+
+
+
+2024-01-22 20:14:14.013 [info] Extension host agent started.
+2024-01-22 20:14:14.368 [info] [127.0.0.1][d7d91d60][ManagementConnection] New connection established.
+2024-01-22 20:14:15.902 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] New connection established.
+2024-01-22 20:14:18.333 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] <2607> Launched Extension Host Process.
+2024-01-22 20:32:50.388 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] <2607> [0mGET /favicon.ico [33m404[0m 42.027 ms - 150[0m
+
+2024-01-22 20:32:50.445 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] <2607> [0mGET /favicon.ico [33m404[0m 2.500 ms - 150[0m
+
+2024-01-22 22:17:54.386 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] The client has reconnected.
+2024-01-22 22:17:54.742 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.
+2024-01-22 23:43:30.641 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.
+2024-01-22 23:43:31.235 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] The client has reconnected.
+2024-01-23 10:55:21.781 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] The client has reconnected.
+2024-01-23 10:55:21.800 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.
+2024-01-23 17:40:36.940 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.
+2024-01-23 17:40:36.958 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] The client has reconnected.
+2024-01-23 21:37:42.146 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] The client has reconnected.
+2024-01-23 21:37:42.882 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.
+2024-01-24 08:54:21.930 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.
+2024-01-24 08:59:23.170 [info] [127.0.0.1][e0ef8f75][ExtensionHostConnection] <2607> Extension Host Process exited with code: 0, signal: null.
+2024-01-24 09:01:02.692 [error] [127.0.0.1][e0ef8f75][ExtensionHostConnection] Unknown reconnection token (seen before).
+2024-01-24 09:01:03.593 [info] [127.0.0.1][10e6f9cd][ExtensionHostConnection] New connection established.
+2024-01-24 09:01:03.675 [info] [127.0.0.1][10e6f9cd][ExtensionHostConnection] <37456> Launched Extension Host Process.
+2024-01-24 09:01:10.314 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-01-24 09:01:10.406 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2024-01-24 09:01:12.240 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-es
+2024-01-24 09:01:13.023 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.85.2024012409: ms-ceintl.vscode-language-pack-es
+2024-01-24 09:01:13.049 [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.85.2024012409
+2024-01-24 09:01:13.066 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2024-01-24 09:01:13.090 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-01-24 09:01:13.237 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.85.2024011709
+2024-01-24 09:01:13.339 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2024-01-24 20:45:19.772 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.
+2024-01-24 20:45:19.855 [info] [127.0.0.1][10e6f9cd][ExtensionHostConnection] The client has reconnected.
+2024-01-24 21:07:03.775 [info] [127.0.0.1][10e6f9cd][ExtensionHostConnection] The client has reconnected.
+2024-01-24 21:07:05.253 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.
+2024-01-24 21:57:04.863 [info] [127.0.0.1][10e6f9cd][ExtensionHostConnection] The client has reconnected.
+2024-01-24 21:57:04.876 [info] [127.0.0.1][d7d91d60][ManagementConnection] The client has reconnected.

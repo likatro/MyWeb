@@ -1,0 +1,15 @@
+2024-01-18 21:58:46.058 [info] 
+
+
+
+
+2024-01-18 21:58:46.103 [info] Extension host agent started.
+2024-01-18 21:58:46.618 [info] [127.0.0.1][9defd1e6][ManagementConnection] New connection established.
+2024-01-18 21:58:47.853 [info] [127.0.0.1][41165f2d][ExtensionHostConnection] New connection established.
+2024-01-18 21:58:47.878 [info] [127.0.0.1][41165f2d][ExtensionHostConnection] <3007> Launched Extension Host Process.
+2024-01-18 22:01:45.419 [info] [127.0.0.1][41165f2d][ExtensionHostConnection] The client has reconnected.
+2024-01-18 22:02:06.141 [info] [127.0.0.1][41165f2d][ExtensionHostConnection] The client has reconnected.
+2024-01-18 22:07:29.944 [info] [127.0.0.1][41165f2d][ExtensionHostConnection] The client has reconnected.
+2024-01-18 22:07:50.669 [info] [127.0.0.1][41165f2d][ExtensionHostConnection] The client has reconnected.
+2024-01-18 22:08:11.357 [info] [127.0.0.1][41165f2d][ExtensionHostConnection] The client has reconnected.
+2024-01-18 22:08:31.967 [info] [127.0.0.1][9defd1e6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

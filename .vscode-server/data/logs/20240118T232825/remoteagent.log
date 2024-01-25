@@ -1,0 +1,21 @@
+2024-01-18 23:28:26.374 [info] 
+
+
+
+
+2024-01-18 23:28:26.374 [info] Extension host agent started.
+2024-01-18 23:28:26.545 [info] [127.0.0.1][b8274a4a][ManagementConnection] New connection established.
+2024-01-18 23:28:28.659 [info] [127.0.0.1][315c56e7][ExtensionHostConnection] New connection established.
+2024-01-18 23:28:28.686 [info] [127.0.0.1][315c56e7][ExtensionHostConnection] <1356> Launched Extension Host Process.
+2024-01-19 14:59:17.387 [info] [127.0.0.1][315c56e7][ExtensionHostConnection] The client has reconnected.
+2024-01-19 14:59:21.140 [info] [127.0.0.1][b8274a4a][ManagementConnection] The client has reconnected.
+2024-01-20 12:19:22.326 [info] [127.0.0.1][315c56e7][ExtensionHostConnection] The client has reconnected.
+2024-01-20 12:19:22.368 [info] [127.0.0.1][b8274a4a][ManagementConnection] The client has reconnected.
+2024-01-20 13:30:02.085 [info] [127.0.0.1][b8274a4a][ManagementConnection] The client has reconnected.
+2024-01-20 13:35:03.413 [info] [127.0.0.1][315c56e7][ExtensionHostConnection] <1356> Extension Host Process exited with code: 0, signal: null.
+2024-01-22 19:55:40.932 [error] [127.0.0.1][315c56e7][ExtensionHostConnection] Unknown reconnection token (seen before).
+2024-01-22 20:06:27.345 [info] [127.0.0.1][b8274a4a][ManagementConnection] The client has reconnected.
+2024-01-22 20:06:28.146 [info] [127.0.0.1][e70d4ed0][ExtensionHostConnection] New connection established.
+2024-01-22 20:06:28.251 [info] [127.0.0.1][e70d4ed0][ExtensionHostConnection] <2021> Launched Extension Host Process.
+2024-01-22 20:11:56.125 [info] [127.0.0.1][b8274a4a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-22 20:11:56.191 [info] [127.0.0.1][e70d4ed0][ExtensionHostConnection] <2021> Extension Host Process exited with code: 0, signal: null.
